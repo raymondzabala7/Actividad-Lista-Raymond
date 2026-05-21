@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: left; 
+}
+
+
+body {
+    font-family: monospace;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none; 
+    padding-left: 0;
+    width: 200px; 
+}
+
+li {
+    padding: 8px 0; 
+    margin-bottom: 5px;
+}
+
+
+.fruta {
+    border-bottom: 2px dotted yellow; 
+}
+
+.verdura {
+    border-bottom: 2px dashed green; 
+}
